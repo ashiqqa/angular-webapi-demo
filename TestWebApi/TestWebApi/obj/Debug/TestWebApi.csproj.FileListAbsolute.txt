@@ -1,0 +1,120 @@
+I:\TestWebApi\TestWebApi\bin\ApplicationInsights.config
+I:\TestWebApi\TestWebApi\bin\roslyn\csc.exe
+I:\TestWebApi\TestWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\TestWebApi\TestWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\TestWebApi\TestWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\TestWebApi\TestWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\TestWebApi\TestWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\TestWebApi\TestWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\TestWebApi\TestWebApi\bin\roslyn\System.Collections.Immutable.dll
+I:\TestWebApi\TestWebApi\bin\roslyn\System.Reflection.Metadata.dll
+I:\TestWebApi\TestWebApi\bin\roslyn\vbc.exe
+I:\TestWebApi\TestWebApi\bin\roslyn\VBCSCompiler.exe
+I:\TestWebApi\TestWebApi\bin\roslyn\VBCSCompiler.exe.config
+I:\TestWebApi\TestWebApi\bin\TestWebApi.dll.config
+I:\TestWebApi\TestWebApi\bin\TestWebApi.dll
+I:\TestWebApi\TestWebApi\bin\TestWebApi.pdb
+I:\TestWebApi\TestWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+I:\TestWebApi\TestWebApi\bin\Microsoft.AI.DependencyCollector.dll
+I:\TestWebApi\TestWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\TestWebApi\TestWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\TestWebApi\TestWebApi\bin\Microsoft.AI.Web.dll
+I:\TestWebApi\TestWebApi\bin\Microsoft.AI.WindowsServer.dll
+I:\TestWebApi\TestWebApi\bin\Microsoft.ApplicationInsights.dll
+I:\TestWebApi\TestWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\TestWebApi\TestWebApi\bin\Newtonsoft.Json.dll
+I:\TestWebApi\TestWebApi\bin\System.Net.Http.Formatting.dll
+I:\TestWebApi\TestWebApi\bin\System.Web.Http.dll
+I:\TestWebApi\TestWebApi\bin\System.Web.Http.WebHost.dll
+I:\TestWebApi\TestWebApi\bin\Microsoft.AI.DependencyCollector.xml
+I:\TestWebApi\TestWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+I:\TestWebApi\TestWebApi\bin\Microsoft.AI.Web.xml
+I:\TestWebApi\TestWebApi\bin\Microsoft.AI.WindowsServer.xml
+I:\TestWebApi\TestWebApi\bin\Microsoft.ApplicationInsights.xml
+I:\TestWebApi\TestWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\TestWebApi\TestWebApi\bin\Newtonsoft.Json.xml
+I:\TestWebApi\TestWebApi\bin\System.Net.Http.Formatting.xml
+I:\TestWebApi\TestWebApi\bin\System.Web.Http.xml
+I:\TestWebApi\TestWebApi\bin\System.Web.Http.WebHost.xml
+I:\TestWebApi\TestWebApi\obj\Debug\TestWebApi.csprojAssemblyReference.cache
+I:\TestWebApi\TestWebApi\obj\Debug\TestWebApi.csproj.CoreCompileInputs.cache
+I:\TestWebApi\TestWebApi\obj\Debug\TestWebApi.csproj.CopyComplete
+I:\TestWebApi\TestWebApi\obj\Debug\TestWebApi.dll
+I:\TestWebApi\TestWebApi\obj\Debug\TestWebApi.pdb
+I:\TestWebApi\TestWebApi\bin\Microsoft.Owin.Cors.dll
+I:\TestWebApi\TestWebApi\bin\Microsoft.Owin.dll
+I:\TestWebApi\TestWebApi\bin\Microsoft.Owin.Security.dll
+I:\TestWebApi\TestWebApi\bin\Microsoft.Owin.Security.OAuth.dll
+I:\TestWebApi\TestWebApi\bin\Owin.dll
+I:\TestWebApi\TestWebApi\bin\System.Web.Cors.dll
+I:\TestWebApi\TestWebApi\bin\Microsoft.Owin.xml
+I:\TestWebApi\TestWebApi\bin\Microsoft.Owin.Cors.xml
+I:\TestWebApi\TestWebApi\bin\Microsoft.Owin.Security.xml
+I:\TestWebApi\TestWebApi\bin\Microsoft.Owin.Security.OAuth.xml
+I:\TestWebApi\TestWebApi\bin\Microsoft.AspNet.Identity.Core.dll
+I:\TestWebApi\TestWebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\TestWebApi\TestWebApi\bin\Microsoft.Owin.Security.Cookies.dll
+I:\TestWebApi\TestWebApi\bin\Microsoft.AspNet.Identity.Core.xml
+I:\TestWebApi\TestWebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\TestWebApi\TestWebApi\bin\Microsoft.Owin.Security.Cookies.xml
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\ApplicationInsights.config
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\roslyn\csc.exe
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\roslyn\System.Collections.Immutable.dll
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\roslyn\System.Reflection.Metadata.dll
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\roslyn\vbc.exe
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\roslyn\VBCSCompiler.exe
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\roslyn\VBCSCompiler.exe.config
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\TestWebApi.dll.config
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\TestWebApi.dll
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\TestWebApi.pdb
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\Microsoft.AI.DependencyCollector.dll
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\Microsoft.AI.Web.dll
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\Microsoft.AI.WindowsServer.dll
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\Microsoft.ApplicationInsights.dll
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\Microsoft.AspNet.Identity.Core.dll
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\Microsoft.Owin.Cors.dll
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\Microsoft.Owin.dll
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\Microsoft.Owin.Security.Cookies.dll
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\Microsoft.Owin.Security.dll
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\Microsoft.Owin.Security.OAuth.dll
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\Newtonsoft.Json.dll
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\Owin.dll
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\System.Net.Http.Formatting.dll
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\System.Web.Cors.dll
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\System.Web.Http.Cors.dll
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\System.Web.Http.dll
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\System.Web.Http.WebHost.dll
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\Microsoft.AI.DependencyCollector.xml
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\Microsoft.AI.Web.xml
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\Microsoft.AI.WindowsServer.xml
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\Microsoft.ApplicationInsights.xml
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\Microsoft.AspNet.Identity.Core.xml
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\Microsoft.Owin.xml
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\Microsoft.Owin.Cors.xml
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\Microsoft.Owin.Security.xml
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\Microsoft.Owin.Security.Cookies.xml
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\Microsoft.Owin.Security.OAuth.xml
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\Newtonsoft.Json.xml
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\System.Net.Http.Formatting.xml
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\System.Web.Http.xml
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\System.Web.Http.Cors.xml
+I:\CROUD Operation\TestWebApi\TestWebApi\bin\System.Web.Http.WebHost.xml
+I:\CROUD Operation\TestWebApi\TestWebApi\obj\Debug\TestWebApi.csprojAssemblyReference.cache
+I:\CROUD Operation\TestWebApi\TestWebApi\obj\Debug\TestWebApi.csproj.CoreCompileInputs.cache
+I:\CROUD Operation\TestWebApi\TestWebApi\obj\Debug\TestWebApi.csproj.CopyComplete
+I:\CROUD Operation\TestWebApi\TestWebApi\obj\Debug\TestWebApi.dll
+I:\CROUD Operation\TestWebApi\TestWebApi\obj\Debug\TestWebApi.pdb
