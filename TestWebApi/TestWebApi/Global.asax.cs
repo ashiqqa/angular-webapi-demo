@@ -18,8 +18,8 @@ namespace TestWebApi
             var config = GlobalConfiguration.Configuration;
             //config.Formatters.JsonFormatter.SerializerSettings.ContractResolver = new CamelCasePropertyNamesContractResolver();
             //config.Formatters.JsonFormatter.UseDataContractJsonSerializer = false;
-            EnableCorsAttribute cors = new EnableCorsAttribute("*", "*", "*");
-            config.EnableCors(cors);
+            //EnableCorsAttribute cors = new EnableCorsAttribute("*", "*", "*");
+            //config.EnableCors(cors);
             GlobalConfiguration.Configure(WebApiConfig.Register);
         }
     }

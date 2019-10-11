@@ -12,7 +12,8 @@ namespace TestWebApi.DbContext
         {
             new User{Id=1, Name="Ashiq", Email="ashiq@gmail.com", Password="123"},
             new User{Id=2, Name="Shopon", Email="shopon@gmail.com", Password="abc"},
-            new User{Id=3, Name="Shakib", Email="shakib@gmail.com", Password="xyz"}
+            new User{Id=3, Name="Shakib", Email="shakib@gmail.com", Password="xyz"},
+            new User{Id=4, Name="Md Ashiqur Rahman", Email="ars@gmail.com", Password="ars123"}
         };
 
         public static List<User> GetAll()
@@ -25,9 +26,10 @@ namespace TestWebApi.DbContext
             return user;
         }
 
-        internal static User Login(string email, string password)
+        public static User Login(string email, string password)
         {
-            return null;
+            var user = users.FirstOrDefault(c => c.Email == email && c.Password == password);
+            return user;
         }
 
         public static bool Save(User user)

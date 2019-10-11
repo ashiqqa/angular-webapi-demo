@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
+using System.Security.Claims;
 using System.Web.Http;
 using TestWebApi.DbContext;
 using TestWebApi.Models;
@@ -79,6 +80,29 @@ namespace TestWebApi.Controllers
             {
                 return Ok(err.Message);
             }
+        }
+
+
+
+        [Authorize]
+        [HttpGet]
+        [Route("api/user/authenticate")]
+        public IHttpActionResult GetForAuthenticate()
+        {
+            var identity = (ClaimsIdentity)User.Identity;
+            return Ok("Hello " + identity.Name);
+        }
+
+        [Authorize(Roles ="4")]
+        [HttpGet]
+        [Route("api/user/admin")]
+        public IHttpActionResult GetAdmin()
+        {
+            var identity = (ClaimsIdentity)User.Identity;
+            var roles = identity.Claims
+                        .Where(c => c.Type == ClaimTypes.Role)
+                        .Select(c => c.Value);
+            return Ok("Hello " + identity.Name + " Role: " + string.Join(",", roles.ToList()));
         }
     }
 }
